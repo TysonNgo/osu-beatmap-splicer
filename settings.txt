@@ -1,0 +1,23 @@
+[Settings]
+ffmpeg=
+title=Spliced
+artist=osu!Splice
+creator=
+version=
+ar=9
+od=8
+cs=4
+hp=6
+break=3000
+
+# each line in osu!Files corresponds with each line in BeatmapSections
+# BeatmapSectoins are obtained by highlighting a section of a
+# beatmap in the editor and copying to clipboard
+# '*' in a single line indicates to repeat the previous line
+
+[osu!Files]
+# ie. C:/Program Files/osu!/Songs/beatmap_folder/file.osu
+
+[BeatmapSections]
+# ie. 00:00:000 (1,2,3,4,5,6,7) - 
+
