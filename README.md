@@ -1,5 +1,5 @@
 # osu-beatmap-splicer
-osu-beatmap-splicer is a tool for the rhythm game osu! that will produce an executable beatmap file (.osz) containing meshed sections of beatmaps specified in the settings.txt.
+osu-beatmap-splicer is a tool for the rhythm game osu! that produces an executable beatmap file (.osz) containing meshed sections of beatmaps specified in the settings.txt.
 
 # Setup
 To use the osu! beatmap splicer, [pydub](http://pydub.com/) must be installed and [ffmpeg](https://ffmpeg.org/download.html) is required.
